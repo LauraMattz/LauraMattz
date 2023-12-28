@@ -1,21 +1,26 @@
-# Olá, eu sou Laura Mattos!
+# Hi, I'm Laura Mattos!
 
-## Sobre mim
+## About Me
 
-- 👀 Interesses: Tecnologia e Inovação
-- 🌱 Aprendendo atualmente: Python
-- 💞️ Buscando colaborar em: SQL, Python, HTML, CSS
-- 📫 Como me encontrar: [mattos.laura@gmail.com](mailto:mattos.laura@gmail.com)
+- 👀 Interests: Technology and Innovation
+- 🌱 Currently Learning: Python and diving into AI, ML, and NLP
+- 💞️ Looking to collaborate on: SQL, Python, HTML, CSS, and exploring AI-driven projects
+- 📫 How to reach me: [mattos.laura@gmail.com](mailto:mattos.laura@gmail.com)
 
-## Minhas habilidades
+## My Skills
 
-### Linguagens de programação
+### Programming Languages
 
 - Python
 - SQL
 
-### Tecnologias web
+### Web Technologies
 
 - HTML
 - CSS
 
+### Emerging Tech
+
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Natural Language Processing (NLP)
