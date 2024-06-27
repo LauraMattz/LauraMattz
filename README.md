@@ -5,7 +5,7 @@
 - 👀 Interests: Technology and Innovation
 - 🌱 Currently Learning: Python and diving into AI, ML, and NLP
 - 💞️ Looking to collaborate on: SQL, Python, HTML, CSS, and exploring AI-driven projects
-- 📫 How to reach me: [mattos.laura@gmail.com](mailto:mattos.laura@gmail.com)
+- 📫 How to reach me: [mattos.laura@gmail.com](mailto:mattos.laura@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lauramattosc/)
 
 ## My Skills
 
