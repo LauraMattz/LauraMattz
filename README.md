@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Laura, a tech enthusiast passionate about innovation and exploring the latest trends in technology. Welcome to my interactive README!
+Hello! I'm Laura, a tech enthusiast passionate about innovation and exploring the latest trends in technology. Welcome to my README!
 
 - 👀 **Interests**: Technology and Innovation
 - 🌱 **Currently Learning**: Python and diving into AI, ML, and NLP
